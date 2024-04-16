@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609002595915",
+    "project_id": "samplelayout-eeac6",
+    "storage_bucket": "samplelayout-eeac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609002595915:android:f82259fa3bca0fc5ec4fce",
+        "android_client_info": {
+          "package_name": "com.example.samplelayout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohr3hvVQXq_twiyHyGR0FHSHH9Cl8KOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
