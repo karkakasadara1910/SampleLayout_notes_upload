@@ -74,7 +74,7 @@ public void checkConnection(){
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if (task.isSuccessful()) {
 
-                                Intent i= new Intent(LoginPage.this, HomePage.class);
+                                Intent i= new Intent(LoginPage.this, NotesPage.class);
                                 startActivity(i);
 
 
